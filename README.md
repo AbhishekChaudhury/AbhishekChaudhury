@@ -8,7 +8,7 @@
 </p>
 </p>
 # 💫 About Me:
-<br>A passionate tech enthusiast from India<br><br>🔭 I’m currently working on A Machine Learning Data Science Project<br><br>🌱 I’m currently learning React JS, Power BI, AWS<br><br>⚡ Fun fact - I once turned a coding bug into a surprise feature
+<br>A Passionate full-stack developer proficient in front-end and back-end technologies, with a commitment to creating efficient and scalable solutions for diverse web applications.<br><br>🔭 I’m currently working on A Machine Learning Data Science Project<br><br>🌱 I’m currently learning React JS, Power BI, AWS<br><br>⚡ Fun fact - I once turned a coding bug into a surprise feature
 
 
 ## 🌐 Socials:
